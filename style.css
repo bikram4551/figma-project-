@@ -1,0 +1,95 @@
+body{
+margin:0;
+padding: 0;
+}
+
+.toparea{
+    background-image:url('image\ 828.png');
+    background-repeat:no-repeat;
+    background-attachment:cover;
+    background-position:center;
+    height:800px;
+}
+.menuarea{
+    
+}
+.xyz{
+    color:white;
+}
+.boxarea{
+    width:400px;
+    height:400px;
+    margin:50px;
+}
+.textarea{
+   color: white; 
+}
+.btn{
+    background-color: #097909 !important; 
+    color:white;
+}
+.boxarea a{
+    text-decoration:none;
+    color: white;
+}
+.feature{
+    padding:60px;
+    color: #097909;
+}
+    .feature a {
+        text-decoration:none;
+        color: #097909;
+        float:right;
+    }
+    .feature h2{
+        color: #097909;
+    }
+
+.colorfularea{
+    padding:60px;
+    color:#097909
+}
+    .colorfularea a{
+        text-decoration: none;
+        color: #097909;
+        float:right;
+    }
+
+.plants{
+   padding:60px; 
+   color:#097909;
+}
+
+.shoppingarea img{
+    display:block;
+    margin:0;
+    padding:0px 0px 100px;
+}
+.footerarea{
+    background-image:url('Rectangle\ 8336.png');
+    background-repeat:no-repeat;
+    background-attachment:cover;
+    background-position:center;
+    height:500px;
+    padding:80px;
+    color:white;
+}
+    .footerarea ul{
+        list-style: none;
+        list-style-position: inside;
+        color:#CCDBD9;
+        margin: 0;
+        padding: 0;
+    }
+    .footerarea ul li{
+        transition: all 2s;
+    }
+    .footerarea ul li:hover{
+        transform: translate(15px,0);
+    }
+
+    .email{
+        background-color:#1A5D53;
+        width:200px;
+        border-radius:10px;
+    }
